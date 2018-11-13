@@ -19,4 +19,4 @@ To run, execute the following in the terminal:
 
 python annnotate_clinvar_snps.py --variant_file variant_summary.txt --pam_file [pam_file.txt] --output_name [outputname]
 
-where [pam_file.txt] is the name of the PAM file and [outputname] is the desired folder name (e.g. base_editor_snps).
+where [pam_file.txt] is the name of the PAM file (e.g. cas_nuclease_pams.txt) and [outputname] is the desired folder name (e.g. base_editor_snps).
